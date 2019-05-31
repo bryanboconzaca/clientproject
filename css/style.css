@@ -4,3 +4,29 @@ h1 {
 .question{
     justify-content: space-between;
 }
+.questions{
+  background-color: violet;
+}
+body{
+  background-color: #02CDF6;
+}
+.header{
+  display: flex;
+  justify-content:center;
+  
+}
+.navbar{
+ display: flex;
+  justify-content:space-between;
+background-color: white;
+height:25px;
+  
+}
+#answers{
+  width:100%;
+    display:flex;
+    justify-content:space-around;
+    height:30%;
+    font-size:20px;
+    background-color: ;
+}
